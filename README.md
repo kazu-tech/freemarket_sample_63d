@@ -1,5 +1,9 @@
 # README
-
+<<<<<<< Updated upstream
+テスト
+=======
+マスターに持って行かない
+>>>>>>> Stashed changes
 ## categoryテーブル
 |Column|Type|Options|
 |------|----|-------|
